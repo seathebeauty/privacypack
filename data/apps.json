@@ -187,7 +187,8 @@
                 { "id": "mailbox_org", "name": "Mailbox.org" },
                 { "id": "tuta_calendar", "name": "Tuta Calendar" },
                 { "id": "nextcloud_calendar", "name": "Nextcloud Calendar" },
-                { "id": "radicale", "name": "Radicale" }
+                { "id": "radicale", "name": "Radicale" },
+                { "id": "fossify_calendar", "name": "Fossify Calendar" }
             ]
         },
         {
